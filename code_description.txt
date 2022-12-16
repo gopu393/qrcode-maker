@@ -1,0 +1,7 @@
+This code creates a QR code.
+The code starts by importing the qrcode and Image packages.
+The code then defines a "qr" variable and sets it to a QR code object.
+The code then adds data to the QR code.
+The code then makes the QR code and sets it to fit the data.
+The code then defines an "img" variable and sets it to the QR code.
+The code then saves the QR code as a .png file.
